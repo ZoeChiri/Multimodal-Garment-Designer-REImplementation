@@ -1,4 +1,4 @@
-# Multimodal-Garment-Designer-REImplementation 👗🧢
+# Multimodal-Garment-Designer-(re)Implementation 👗🧢
 Understanding Deep Learning papers and implementing the described approaches. 
 
 **Title:** Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing
