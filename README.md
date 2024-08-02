@@ -17,3 +17,8 @@ The objective of this project is to gain practical experience in the following a
 **🧮 Code Implementation:** Practice translating the described deep learning architecture into working code. This includes model definition, training, and evaluation.
 
 **📈 Human-Centric Latent Diffusion Models:** Gain hands-on experience with this approach for multimodal fashion image editing.
+
+**💐 MORE SOURCES I USED**
+https://medium.com/geekculture/learn-to-implement-papers-beginners-guide-bb1c8bd61f08
+
+https://github.com/aimagelab/multimodal-garment-designer
